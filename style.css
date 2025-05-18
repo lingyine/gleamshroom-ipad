@@ -1,0 +1,22 @@
+
+body {
+    background: #222;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #ccc;
+    background: black;
+}
+
+#controls button {
+    font-size: 24px;
+    padding: 10px 20px;
+    margin: 10px 5px;
+}
